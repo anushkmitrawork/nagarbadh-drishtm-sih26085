@@ -4,6 +4,8 @@
 
 The project uses a predominantly indigenous spatial-data foundation, including an ISRO-derived DEM in the modelling workflow.
 
+<table><tr><td align="center" valign="top"><img src="../assets/images/terrain/dem-utm43n.png" width="310" alt="DEM (UTM 43N), 378 to 729 m"><br><sub>DEM (UTM 43N), 378 to 729 m</sub></td><td align="center" valign="top"><img src="../assets/images/terrain/hillshade.png" width="310" alt="Hillshade"><br><sub>Hillshade</sub></td></tr></table>
+
 ## Core technical tools
 
 - QGIS / PyQGIS

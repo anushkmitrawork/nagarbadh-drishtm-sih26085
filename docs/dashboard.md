@@ -19,6 +19,12 @@ The dashboard workflow includes:
 - Road-accessibility layers
 - Modelling metadata
 
+The images below are QGIS map exports of the layer types the dashboard presents (not screenshots of the dashboard itself).
+
+<table><tr><td align="center" valign="top"><img src="../assets/images/overview/drainage-network.png" width="310" alt="Drains, retention ponds and outfalls over hillshade"><br><sub>Drains, retention ponds and outfalls over hillshade</sub></td><td align="center" valign="top"><img src="../assets/images/swmm/v7-3hr80-overview.png" width="310" alt="SWMM V7 (3 h): links by max depth / full depth, nodes by status"><br><sub>SWMM V7 (3 h): links by max depth / full depth, nodes by status</sub></td></tr></table>
+
+<table><tr><td align="center" valign="top"><img src="../assets/images/swmm/flooded-nodes-200m-window.png" width="310" alt="200 m window on the flooded nodes"><br><sub>200 m window on the flooded nodes</sub></td><td align="center" valign="top"><img src="../assets/images/overview/inundation-road-impact.png" width="310" alt="Flood depth with impassable edges at 0.15 / 0.30 / 0.50 m"><br><sub>Flood depth with impassable edges at 0.15 / 0.30 / 0.50 m</sub></td></tr></table>
+
 ---
 
 ## Relationship to the repository

@@ -38,6 +38,8 @@ Waterlogging / spatial risk
 
 The initial research therefore lived primarily in the GIS domain.
 
+<table><tr><td align="center" valign="top"><img src="../assets/images/terrain/dem-utm43n.png" width="310" alt="DEM (UTM 43N), 378 to 729 m"><br><sub>DEM (UTM 43N), 378 to 729 m</sub></td><td align="center" valign="top"><img src="../assets/images/hydrology/flow-accumulation.png" width="310" alt="Flow accumulation"><br><sub>Flow accumulation</sub></td></tr></table>
+
 ---
 
 ## Chapter 2 — From GIS layers to a hydro-spatial model
@@ -55,6 +57,8 @@ to:
 > **What combination of terrain and hydrological conditions makes an area vulnerable to waterlogging?**
 
 This became the foundation for the associated manuscript.
+
+<table><tr><td align="center" valign="top"><img src="../assets/images/hydrology/twi.png" width="230" alt="Topographic wetness index"><br><sub>Topographic wetness index</sub></td><td align="center" valign="top"><img src="../assets/images/hydrology/ponding-susceptibility.png" width="230" alt="Ponding susceptibility class"><br><sub>Ponding susceptibility class</sub></td><td align="center" valign="top"><img src="../assets/images/risk/waterlogging-risk.png" width="230" alt="Waterlogging risk index (1 to 5)"><br><sub>Waterlogging risk index (1 to 5)</sub></td></tr></table>
 
 ### Important scope distinction
 
@@ -101,6 +105,8 @@ The project now had a second physical representation:
 
 **the drainage system itself.**
 
+<table><tr><td align="center" valign="top"><img src="../assets/images/drainage/drainage-design-v2.png" width="230" alt="Drainage design (Fixed v2)"><br><sub>Drainage design (Fixed v2)</sub></td><td align="center" valign="top"><img src="../assets/images/drainage/outfall-points.png" width="230" alt="Outfall points"><br><sub>Outfall points</sub></td><td align="center" valign="top"><img src="../assets/images/drainage/retention-ponds.png" width="230" alt="Retention ponds"><br><sub>Retention ponds</sub></td></tr></table>
+
 ---
 
 ## Chapter 5 — Engineering the hydraulic model
@@ -129,6 +135,8 @@ The model development included diagnosing numerical instability, correcting netw
 
 This engineering stage is important because the project became an iterative computational system rather than a static GIS analysis.
 
+<table><tr><td align="center" valign="top"><img src="../assets/images/swmm/v7-3hr80-overview.png" width="310" alt="SWMM V7 (3 h): links by max depth / full depth, nodes by status"><br><sub>SWMM V7 (3 h): links by max depth / full depth, nodes by status</sub></td><td align="center" valign="top"><img src="../assets/images/swmm/flooded-nodes-200m-window.png" width="310" alt="200 m window on the flooded nodes"><br><sub>200 m window on the flooded nodes</sub></td></tr></table>
+
 ---
 
 ## Chapter 6 — From hydraulic response to flood depth
@@ -154,6 +162,8 @@ Inundation
 Now the model was answering a more practical question:
 
 > **Where does the hydraulic response become visible flooding?**
+
+<table><tr><td align="center" valign="top"><img src="../assets/images/inundation/flood-depth.png" width="440" alt="Flood depth (m), 0.02 to 1.58 m"><br><sub>Flood depth (m), 0.02 to 1.58 m</sub></td></tr></table>
 
 ---
 
@@ -189,6 +199,8 @@ Decision support
 
 The system therefore moved from describing flood behaviour to translating it into an operationally meaningful consequence.
 
+<table><tr><td align="center" valign="top"><img src="../assets/images/road-accessibility/impassable-15cm.png" width="230" alt="Impassable at 0.15 m"><br><sub>Impassable at 0.15 m</sub></td><td align="center" valign="top"><img src="../assets/images/road-accessibility/impassable-30cm.png" width="230" alt="Impassable at 0.30 m"><br><sub>Impassable at 0.30 m</sub></td><td align="center" valign="top"><img src="../assets/images/road-accessibility/impassable-50cm.png" width="230" alt="Impassable at 0.50 m"><br><sub>Impassable at 0.50 m</sub></td></tr></table>
+
 ---
 
 ## Chapter 8 — The SIH transition
@@ -210,6 +222,8 @@ SIH 2026 Nowcasting-oriented workflow
 ```
 
 The broader objective became connecting rainfall/scenario information with terrain response, drainage hydraulics, inundation and road accessibility in one decision-support system.
+
+<table><tr><td align="center" valign="top"><img src="../assets/images/overview/pipeline-montage.png" width="440" alt="Pipeline montage: DEM, flow accumulation, waterlogging risk, drainage network, SWMM result, inundation depth, impassable edges"><br><sub>Pipeline montage: DEM, flow accumulation, waterlogging risk, drainage network, SWMM result, inundation depth, impassable edges</sub></td></tr></table>
 
 ---
 
