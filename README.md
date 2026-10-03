@@ -125,6 +125,14 @@ Interactive Dashboard
 
 ---
 
+## 🗺️ The system at a glance
+
+<p align="center"><img src="assets/images/overview/pipeline-montage.png" width="760" alt="Seven-panel montage: DEM, flow accumulation, waterlogging risk, drainage network, SWMM result, inundation depth, impassable edges"><br><sub><b>Pipeline montage (QGIS export, Pune 10 km AOI, EPSG:32643): DEM → flow accumulation → waterlogging risk → drainage network → SWMM result (3 h run) → inundation depth → impassable edges.</b></sub></p>
+
+Every exported layer map is catalogued, with its colour scale and source layer, in the **[Layer Gallery](docs/layer-gallery.md)**.
+
+---
+
 ## 🖥️ Explore the working system
 
 ### Live Dashboard

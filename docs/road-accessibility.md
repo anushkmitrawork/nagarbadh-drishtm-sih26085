@@ -43,3 +43,11 @@ The system therefore goes beyond:
 toward:
 
 > **Which movement corridors become affected?**
+
+---
+
+## Figures: impassable edges by threshold
+
+<p align="center"><img src="../assets/images/road-accessibility/impassable-15cm.png" width="560" alt="Impassable at 0.15 m"><br><sub><b>Impassable edges at 0.15 m.</b></sub></p>
+<p align="center"><img src="../assets/images/road-accessibility/impassable-30cm.png" width="560" alt="Impassable at 0.30 m"><br><sub><b>Impassable edges at 0.30 m.</b></sub></p>
+<p align="center"><img src="../assets/images/road-accessibility/impassable-50cm.png" width="560" alt="Impassable at 0.50 m"><br><sub><b>Impassable edges at 0.50 m.</b></sub></p>

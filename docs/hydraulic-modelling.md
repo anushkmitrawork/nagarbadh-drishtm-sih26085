@@ -52,3 +52,14 @@ SWMM outputs are mapped back into the spatial environment so that hydraulic resp
 ## Scope
 
 The hydraulic modelling described here is part of the broader current system and is not claimed to be part of the associated unpublished manuscript unless explicitly included in that manuscript.
+
+---
+
+## Figures: SWMM run V7 (3 h, "3hr80")
+
+Map exports of the SWMM run documented in the dashboard. Per the export notes: 25,232 links and 14,109 nodes; 6 flooded nodes and 60 surcharged nodes, all others normal.
+
+<p align="center"><img src="../assets/images/swmm/v7-3hr80-overview.png" width="560" alt="SWMM V7 3hr80 overview"><br><sub><b>Links by max depth / full depth, nodes by status, over hillshade.</b></sub></p>
+<p align="center"><img src="../assets/images/swmm/v7-3hr80-nodes.png" width="560" alt="SWMM V7 nodes"><br><sub><b>Node status: normal, surcharged, flooded.</b></sub></p>
+<p align="center"><img src="../assets/images/swmm/v7-3hr80-links.png" width="560" alt="SWMM V7 links"><br><sub><b>Link max depth / full depth classes (0 to 1.00, full).</b></sub></p>
+<p align="center"><img src="../assets/images/swmm/flooded-nodes-200m-window.png" width="560" alt="Flooded nodes 200 m window"><br><sub><b>200 m window on the flooded nodes.</b></sub></p>
