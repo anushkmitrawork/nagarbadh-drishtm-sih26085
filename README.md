@@ -4,7 +4,7 @@
 
 **SIH 2026 · SIH26085 · Urban Flood Nowcasting System · Disaster Management**
 
-[🌐 Open Live Dashboard](./) · [📖 Project Story](docs/project-story.md) · [🧭 Methodology](docs/methodology.md) · [📚 Research & Literature](docs/research-literature.md)
+[🌐 Open Live Dashboard](https://anushkmitrawork.github.io/nagarbadh-drishtm-sih26085/) · [📖 Project Story](docs/project-story.md) · [🧭 Methodology](docs/methodology.md) · [📚 Research & Literature](docs/research-literature.md)
 
 ---
 
@@ -43,32 +43,32 @@ SIH 2026 became the next evolution: extending the hydro-spatial and hydraulic fo
 **Second-Semester MCA Project**  
 Terrain + hydrology + waterlogging
 
-↓  
+↓
 
 **Hydro-spatial research**  
 Terrain-derived hydrological and risk analysis
 
-↓  
+↓
 
 **CIIAR / DES Pune University**  
 Research expansion and computational modelling
 
-↓  
+↓
 
 **3D computational modelling**  
 Geographically accurate 3D environment for Unity collaboration
 
-↓  
+↓
 
 **Drainage + SWMM**  
 Detailed drainage representation and hydraulic simulation
 
-↓  
+↓
 
 **Inundation + road accessibility**  
 Flood depth translated into practical road-impact layers
 
-↓  
+↓
 
 **SIH 2026**  
 Urban flood nowcasting and decision support
@@ -131,7 +131,9 @@ Interactive Dashboard
 
 The repository's existing `index.html` is the deployed NagarBadh Drishtm dashboard.
 
-**[Open the dashboard →](./)**
+**[🌐 Open the live dashboard →](https://anushkmitrawork.github.io/nagarbadh-drishtm-sih26085/)**
+
+The dashboard is the deployed product; the repository documentation below provides the research and engineering record behind it.
 
 ### Project documentation
 
